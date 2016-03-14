@@ -280,5 +280,10 @@ h3 {
     width: 100%;
     color: white;
     letter-spacing: 4.3px; }
+  #footer .copyright-text {
+    margin-top: 60px; }
+  #footer .comillas {
+    color: #d29948;
+    font-size: 25px; }
 
 /*# sourceMappingURL=main.css.map */

@@ -282,16 +282,24 @@ h3 {
   background-repeat:no-repeat;
   height: 690px;
 
- .form-control{
-    border:1px solid #d29948;
-    border-radius: 4px;
-  }
-  .btn-submit{
-    text-transform: uppercase;
-    background: #d29948;
-    width: 100%;
-    color:white;
-    letter-spacing: 4.3px;
-  }
+   .form-control{
+      border:1px solid #d29948;
+      border-radius: 4px;
+    }
+    .btn-submit{
+      text-transform: uppercase;
+      background: #d29948;
+      width: 100%;
+      color:white;
+      letter-spacing: 4.3px;
+    }
 
+    .copyright-text{
+      margin-top: 60px;
+    }
+    .comillas{
+        color:#d29948;
+        font-size: 25px;
+        
+      }
 }
